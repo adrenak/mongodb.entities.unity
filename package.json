@@ -1,6 +1,6 @@
 {
 	"name": "com.adrenak.mongodb.entities.upm",
-	"version": "0.0.0",
+	"version": "1.0.0",
 	"displayName": "MongoDB.Entities",
 	"description": "UPM package for MongoDB.Entities",
 	"unity": "2018.4",
