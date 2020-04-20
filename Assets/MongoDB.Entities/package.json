@@ -1,0 +1,23 @@
+{
+	"name": "com.adrenak.mongodb.entities.upm",
+	"version": "0.0.0",
+	"displayName": "MongoDB.Entities",
+	"description": "UPM package for MongoDB.Entities",
+	"unity": "2018.4",
+	"author": {
+		"name": "dj-nitehawk@github"
+	},
+	"dependencies": {
+		"com.adrenak.mongodb.driver.upm"
+	},
+	"scopedRegistries": [
+		{
+			"name": "registry.npmjs.org",
+			"url": "https://registry.npmjs.org",
+			"scopes": [
+				"com.adrenak.mongodb.driver.upm",
+				"org.npmjs"
+			]
+		}
+	]
+}
