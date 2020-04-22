@@ -8,7 +8,7 @@
 		"name": "dj-nitehawk@github"
 	},
 	"dependencies": {
-		"com.adrenak.mongodb.driver.upm": "1.0.0"
+		"com.adrenak.mongodb.driver.upm": "1.0.1"
 	},
 	"scopedRegistries": [
 		{
