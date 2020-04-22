@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/adrenak/mongodb.entities.upm/compare/v1.0.1...v1.0.2) (2020-04-22)
+
+
+### Bug Fixes
+
+* Update dependency and more Entities.Core inside ([bc2dfcc](https://github.com/adrenak/mongodb.entities.upm/commit/bc2dfcc847b03e2c8436245d78830a6351648f25))
+
 ## [1.0.1](https://github.com/adrenak/mongodb.entities.upm/compare/v1.0.0...v1.0.1) (2020-04-22)
 
 
