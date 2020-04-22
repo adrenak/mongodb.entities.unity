@@ -1,0 +1,15 @@
+{
+    "name": "MongoDB.Entities.Runtime",
+    "references": [
+        "MongoDB.Driver.Plugins",
+        "MongoDB.Entities.Plugins"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

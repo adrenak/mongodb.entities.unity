@@ -5,14 +5,14 @@
     "@semantic-release/release-notes-generator",
     ["@semantic-release/changelog", { 
       "preset": "angular",
-      "changelogFile":"Assets/MongoDB.Entities/CHANGELOG.md"
+      "changelogFile":"Packages/MongoDB.Entities/CHANGELOG.md"
     }],
     ["@semantic-release/npm", { 
       "npmPublish": false,
-      "pkgRoot":"Assets/MongoDB.Entities"
+      "pkgRoot":"Packages/MongoDB.Entities"
     }],
     ["@semantic-release/git", {
-      "assets": ["Assets/MongoDB.Entities/package.json", "Assets/MongoDB.Entities/CHANGELOG.md"],
+      "assets": ["Packages/MongoDB.Entities/package.json", "Packages/MongoDB.Entities/CHANGELOG.md"],
       "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
     }],
     "@semantic-release/github"
