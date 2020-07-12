@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.adrenak.mongodb.driver.upm": "1.0.1",
+    "com.adrenak.mongodb.driver.upm": "1.1.0",
     "com.unity.package-manager-ui": "2.0.8",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.animation": "1.0.0",

@@ -38,7 +38,7 @@ jobs:
         fi
         git push -f -u origin upm
       env:
-        PKG_ROOT: "Packages/mongodb.entities"
+        PKG_ROOT: "Packages/mongodb.entities.unity"
 
     - name: Create UPM git tag
       if: steps.semantic.outputs.new_release_published == 'true'

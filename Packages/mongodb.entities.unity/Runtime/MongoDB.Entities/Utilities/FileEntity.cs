@@ -18,7 +18,7 @@ namespace MongoDB.Entities
     /// </summary>
     public abstract class FileEntity : Entity
     {
-        private readonly DataStreamer streamer;
+        private readonly DataStreamer streamer = null;
 
         /// <summary>
         /// The total amount of data in bytes that has been uploaded so far
