@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/adrenak/mongodb.entities.unity/compare/v1.0.2...v1.0.3) (2020-07-12)
+
+
+### Bug Fixes
+
+* Minor change to be able to make another commit ([a127991](https://github.com/adrenak/mongodb.entities.unity/commit/a127991938db714ef5a293745a2740cde621c067))
+
 ## [1.0.2](https://github.com/adrenak/mongodb.entities.upm/compare/v1.0.1...v1.0.2) (2020-04-22)
 
 
